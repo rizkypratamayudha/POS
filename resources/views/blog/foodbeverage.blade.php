@@ -8,6 +8,9 @@
 </head>
 <body>
     <h1>Ini adalah daftar Produk Category {{$category}}</h1>
-    
+    <p>berikut adalah daftar product {{$category}}</p>
+    <li>chiken</li>
+    <li>ayam</li>
+    <li>pitik</li>
 </body>
 </html>
