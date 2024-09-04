@@ -10,4 +10,5 @@ class PenjualanController extends Controller
         return view('blog.penjualan')
         ->with('penjualan','Toko Rizky Pratama Yudha');
     }
+    
 }

@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Ini adalah daftar Produk Category {{$category}}</h1>
+    
 </body>
 </html>

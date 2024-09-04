@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Ini adalah halaman Penjualan {{$penjualan}}</h1>
+    
 </body>
 </html>

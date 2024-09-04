@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Halo, Ini adalah halaman awal {{$home}}</h1>
+    
 </body>
 </html>

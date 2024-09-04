@@ -22,4 +22,5 @@ class CategoryController extends Controller
         return view('blog.category')
         ->with('category','baby and kid');
     }
+    
 }

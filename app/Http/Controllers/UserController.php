@@ -11,4 +11,5 @@ class UserController extends Controller
         ->with('id',$id)
         ->with('nama',$nama);
     }
+    
 }

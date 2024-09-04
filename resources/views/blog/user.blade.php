@@ -10,5 +10,6 @@
     <h1>Ini adalah halaman User</h1>
     <h2>User : {{$id}}</h2>
     <h2>Nama : {{$nama}}</h2>
+    
 </body>
 </html>

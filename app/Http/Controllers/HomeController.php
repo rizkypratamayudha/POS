@@ -11,3 +11,4 @@ class HomeController extends Controller
         ->with('home','Toko Rizky Pratama Yudha');
     }
 }
+
